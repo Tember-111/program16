@@ -1,0 +1,10 @@
+// Filename: Program16.java
+public class Program16 {
+    public static void main(String[] args) {
+        int i = 0;
+
+        do {
+            System.out.println("Hello");
+            i++;
+        } while (i <= 10);
+    }
